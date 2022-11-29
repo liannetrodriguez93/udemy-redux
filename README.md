@@ -1,2 +1,3 @@
 # udemy-redux
-curso udemy fernando herrera seccion 18
+- Configuracion de redux using redux-toolkit
+- Ejemplo de RTK query
